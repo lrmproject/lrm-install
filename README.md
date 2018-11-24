@@ -5,8 +5,8 @@ Shell script to install a [LRMcoin Masternode](https://www.lrmcoin.cc/) on a Lin
 ## Installation:
 ```
 git clone https://github.com/lrmproject/lrm-install/
-cd lgs-install
-bash lgs-install.sh
+cd lrm-install
+bash lrm-install.sh
 ```
 ***
 
