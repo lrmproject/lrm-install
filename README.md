@@ -46,7 +46,7 @@ lrmcoin-cli masternode status
 ```
 Also, if you want to check/start/stop **LRMcoin** , run one of the following commands as **root**:
 
-**Ubuntu 16.04**:
+**Ubuntu 16.04 or 18.04**:
 ```
 systemctl status LRMcoin #To check the service is running.
 systemctl start LRMcoin #To start LRMcoin service.
