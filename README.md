@@ -32,7 +32,7 @@ Alias Address Privkey TxHash Output_index
 9. Save and close the file.
 10. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
 11. Click **Update status** to see your node. If it is not shown, close the wallet and start it again. Make sure the wallet is unlocked.
-12. Next, go to our channel in **Discord** for detailed instructions: https://discord.gg/UE6KJmW
+12. Next, go to our **Discord channel** for detailed instructions: https://discord.gg/UE6KJmW
 ***
 
 ## Usage:
