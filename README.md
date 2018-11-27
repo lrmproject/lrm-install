@@ -9,7 +9,13 @@ cd lrm-install
 bash lrm-install.sh
 ```
 ***
-
+## Update wallet to latest version:
+```
+cd ~/lrm-install/
+git pull
+bash lrm-update.sh
+```
+***
 ## Desktop wallet setup
 
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
