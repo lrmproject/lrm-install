@@ -2,7 +2,7 @@
 Shell script to install a [LRMcoin Masternode](https://www.lrmcoin.cc/) on a Linux server running Ubuntu 14.04, 16.04 or 18.04. Use it on your own risk.
 
 ***
-## Installation:
+## Installation (latest wallet version):
 ```
 git clone https://github.com/lrmproject/lrm-install/
 cd lrm-install
