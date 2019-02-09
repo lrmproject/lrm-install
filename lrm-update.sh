@@ -4,7 +4,7 @@ CONFIG_FILE='lrmcoin.conf'
 CONFIGFOLDER='/root/.lrmcoin'
 COIN_DAEMON='/usr/local/bin/lrmcoind'
 COIN_CLI='/usr/local/bin/lrmcoin-cli'
-COIN_REPO='https://github.com/lrmproject/LRMcoin/releases/download/v1.0.4.0/lrmcoin-1.0.4-x86_64-linux-gnu.tar.gz'
+COIN_REPO='https://github.com/lrmproject/LRMcoin/releases/download/v1.0.5.0/lrmcoin-1.0.5-x86_64-linux-gnu.tar.gz'
 COIN_NAME='LRMcoin'
 COIN_PORT=17273
 
